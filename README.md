@@ -17,6 +17,9 @@ $ conda activate BlenderCollector
 $ pip install -r requirements.txt
 ```
 
+## Data
+You can download the environment model from [here](https://drive.google.com/drive/folders/1zgI3Mv0FJwDQNO_sIcSULqvCsyzzFhkd?usp=drive_link)
+
 ## QuickStart
 
     $ cd BlenderCollector
