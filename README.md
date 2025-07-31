@@ -5,8 +5,7 @@ This is a tool for generate data from Blender by import a 'fbx' model. It can ge
 
 ## Results show
 
-<img src="./assets/rgb.png" alt="rgb_data" width="45%"/> 
-<img src="./assets/depth.png" alt="depth_data" width="45%"/>
+<img src="./assets/rgb.png" alt="rgb_data" width="45%"/>  <img src="./assets/depth.png" alt="depth_data" width="45%"/>
 
 ## Env setup
 
